@@ -17,7 +17,7 @@ class App extends React.Component {
     super(props)
 
     this.state = {
-      location: "Seattle, WA",
+      location: "San Francisco, CA",
       animal: "",
       breed: "",
       breeds: [],
